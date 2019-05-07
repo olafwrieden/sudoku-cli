@@ -1,4 +1,4 @@
-# Sudoku CLI Java Game
+# Sudoku CUI Java Game
 As part of my Computer Science Degree, one of my assignments was to design and build a software product - a game. 
 
 ### The Design Brief
