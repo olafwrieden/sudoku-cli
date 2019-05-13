@@ -75,3 +75,6 @@ Sudoku grids may take a while to complete depending on the player's chosen diffi
 After the player fills out the Sudoku grid, the challenge is over and a fun-fact is displayed.
 
 ![Sudoku Complete](/screenshots/sudoku-complete.png)
+
+### See something that can be improved?
+While this is not an active project of mine, I would love to hear from you. Feel free to submit a Pull Request if you can improve this repository or open an issue should you encounter a bug. 🐞
