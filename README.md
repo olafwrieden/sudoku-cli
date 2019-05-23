@@ -32,7 +32,7 @@ If you are not using the NetBeans IDE, you may find that the Sudoku grid does no
   <summary>Show Fix for Other IDEs</summary>
   <p>
     
-```
+```java
 @Override
 public String toString() {
   if (this.isLocked()) {
