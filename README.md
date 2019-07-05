@@ -17,10 +17,10 @@ product. You will need to use text files to store input and output data from the
     
   Completed | Requirement
 :------------ | :-------------|
-:heavy_check_mark: | User Interface (CUI)<ul><li>Clear and well-designed interface</li><li>The program can handle users’ inputs from the CUI properly</li><li>The interface is easy for users to interact with</li></ul>
-:heavy_check_mark: |  File IO<ul><li>The program input and output data from/to text files successfully</li></ul>
-:heavy_check_mark: |  Software functionality and usability<ul><li>The program is easy to compile and run without any manual configurations (e.g. set up input/output files, import .jar files, etc.)</li><li>The program can be easily interacted with without any errors</li><li>The complexity of the functionality</li></ul>
-:heavy_check_mark: |  Software design & implementation<ul><li>The program can be compiled successfully</li><li>Highly readable code</li><li>Meaningful and appropriate comments</li><li>Executes without runtime errors</li><li>Robust error handling</li><li>Clear class structure</li><li>Complexity and robustness of the functionality</li></ul>
+:heavy_check_mark: | **User Interface (CUI)**<ul><li>Clear and well-designed interface</li><li>The program can handle users’ inputs from the CUI properly</li><li>The interface is easy for users to interact with</li></ul>
+:heavy_check_mark: |  **File IO**<ul><li>The program input and output data from/to text files successfully</li></ul>
+:heavy_check_mark: |  **Software functionality and usability**<ul><li>The program is easy to compile and run without any manual configurations (e.g. set up input/output files, import .jar files, etc.)</li><li>The program can be easily interacted with without any errors</li><li>The complexity of the functionality</li></ul>
+:heavy_check_mark: |  **Software design & implementation**<ul><li>The program can be compiled successfully</li><li>Highly readable code</li><li>Meaningful and appropriate comments</li><li>Executes without runtime errors</li><li>Robust error handling</li><li>Clear class structure</li><li>Complexity and robustness of the functionality</li></ul>
   
   </p>
 </details>
